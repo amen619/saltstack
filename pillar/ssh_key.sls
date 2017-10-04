@@ -1,0 +1,4 @@
+my_ssh_key: |
+  myprivatekey
+# add valid privatekey and public key
+my_ssh_key_name: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDn76Gv3Gj5Yhxnt4C3dDdEiKAlHkd5pFd+rIsEl4e1ymE1GwEu0p5FfAQRpfc9Rjk9cjXuyLKNBQAnSrprPXIB4Nl+eJZMoP5SrtWUWDzFZS6qPoO/4vIfaZ28fyJ9OwgULO/QzVjHJ1Lbq+egQj//j+Xg5eyHrJTXkvZjIhU3qMTJKzdkdfmavU1vUqHAP6KJ1tZ9zr+6a1hy7PNJyNBszt/r+CNueYaAHySmQZI7 user@user
