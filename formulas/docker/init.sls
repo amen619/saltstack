@@ -1,3 +1,2 @@
 include:
   - .docker
-  - .images
