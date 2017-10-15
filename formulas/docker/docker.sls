@@ -1,5 +1,6 @@
 include:
   - users
+  - basics.python
 
 add_docker_repository:
   pkgrepo.managed:
@@ -22,10 +23,6 @@ add_user_{{ user }}_to_docker_group:
     - addusers:
       - {{ user }}
 {% endfor %}
-
-install_python_pip:
-  pkg.installed:
-    - name: python-pip
 
 install_docker_compose:
   pip.installed:
